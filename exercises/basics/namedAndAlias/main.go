@@ -21,6 +21,7 @@ func main() {
 			c. assign 3600 to the variable hour using the  = operator
 			d. print out the value of hour
 	*/
+
 	var hour duration
 	fmt.Printf("hour's type: %T, hour's value: %v\n", hour, hour)
 
